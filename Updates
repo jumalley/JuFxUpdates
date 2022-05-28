@@ -1,5 +1,17 @@
 + Nouveaux véhicules imports
-+ Ajout d'un studio
-+ Ajout d'un mapping gang (CRIPS)
-+ Ajout du Tabac
+M4 Compétiton, AMG One, Mc Laren Senna...
+
++ Nouveau modèle & sticker sur les hélicos EMS.
+
+= Optimisation de l'inventaire (suppression d'images inutiles)
+Le chargement de la ressource est maintenant plus rapide.
+
 + Ajout d'un système de combat log
+Quand vous déconnectez en combat un fantôme apparaît, vous pourrez ensuite
+copier l'identifiant du joueur qui viens de se déconnecter.
+
+- Suppression des ralentisseurs sur le pont de Cayo Perico
+
++ Nouveau système de cléfs fonctionnel.
+Appuyez sur [U] pour utiliser vos cléfs.
+Appuyez deux fois sur [U] pour ouvrir l'interface des cléfs.
