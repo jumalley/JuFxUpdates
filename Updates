@@ -1,8 +1,4 @@
-- Suppressions de certains mappings pour régler les crash et bug de textures.
+- Suppressions de certains mappings pour régler les crash.
 + Nouveau menu de pause.
-+ Nouveau menu de création du personnage en cours de dév. 
-( /skin autorisé pour faire votre personnage en attendant )
-+ Nouveau système de station essence et station éléctrique.
++ Nouveau système de station essence et station éléctrique. (fix des bug pour tirer)
 + Ajout d'un centre commercial en ville.
-+ Ajout de la commande /radiofix.
-+ Ajout du Gouv & des Bloods.
