@@ -1,9 +1,7 @@
-- Suppressions de certains mappings pour régler les crashs.
-+ Nouveau menu de pause.
-+ Nouveau système de station essence et station électrique. (fix des bugs)
-+ Ajout d'un centre commercial en ville.
 + Ajout de la chasse.
 + Ajout de la commande /FPS pour booster et gérer le nombre d'images par seconde. (Vous ne serez plus kick en cas de FPS trop bas)
 + Ajout de la batterie sur votre téléphone et des chargeurs dans vos maisons / appartements.
 + Ajout de commandes d'administration #・admins.
 + Votre faim et votre soif ne descendront plus en attendant un fix de la part des développeurs.
+- Vous ne pouvez plus vendre vos véhicules imports.
+
