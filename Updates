@@ -1,6 +1,6 @@
-= Optimisation et suppression de ressources.
-+ Ajout des conteneurs.
-+ Nouveaux métiers Pole emploi : Tabac, Joaillerie, Vigneron, Metallurgie
-+ Nouveaux braquages de Fleeca.
-+ Ajout de la mine.
-= Refonte du système de munitions.
++ Ajout des véhicules persistants (Les véhicules restent même en cas de reboot)
+= Retour de l'agence immobilière.
+= Tous les objets sont maintenant stackables. (Armes comprises)
+? Fix des charges dans le MDT Police.
+? Fix du dispatch de la Police en cours.
+= Fix d'objets et d'armes sans images.
